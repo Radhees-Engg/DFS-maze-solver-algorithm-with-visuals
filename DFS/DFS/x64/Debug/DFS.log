@@ -1,0 +1,8 @@
+﻿  DFS.cpp
+C:\Users\Rad_8\Desktop\C++\DFS\DFS\DFS.cpp(74,24): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Rad_8\Desktop\C++\DFS\DFS\DFS.cpp(74,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rad_8\Desktop\C++\DFS\DFS\DFS.cpp(74,26): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Rad_8\Desktop\C++\DFS\DFS\DFS.cpp(74,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  DFS.vcxproj -> C:\Users\Rad_8\Desktop\C++\DFS\x64\Debug\DFS.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
